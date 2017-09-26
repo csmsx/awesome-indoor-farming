@@ -10,6 +10,7 @@
 - [Companies](#companies)
 - [Books](#books)
 
+All lists are in alphabetical order.
 
 ## Public Datasets
 
@@ -21,8 +22,6 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Plant Trait Database](https://www.try-db.org/TryWeb/Database.php)
 
 ## OSS
-
-All lists are in alphabetical order.
 
 ### Gardeners
 
