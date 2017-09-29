@@ -20,6 +20,8 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [The iNaturalist Challenge 2017 Dataset](http://www.gitxiv.com/posts/ueNaP74KC7qhqJMq7/the-inaturalist-challenge-2017-dataset)
 - [Herbarium specimens from LIRMM](http://otmedia.lirmm.fr/LifeCLEF/GoingDeeperHerbarium/)
 - [Plant Trait Database](https://www.try-db.org/TryWeb/Database.php)
+- [UC Irvine Leaf Dataset](https://archive.ics.uci.edu/ml/datasets/Leaf) - 340 images
+- [UC Irvine One-hundred plant species leaves data set](https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set) - ~1600 images of leaf specimens, used for Kaggle Leaf Classfication challenge
 
 ## OSS
 
