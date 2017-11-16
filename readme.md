@@ -39,8 +39,12 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 ## Companies
 
 - [AeroFarms](http://aerofarms.com/)
+- [AgriCool](https://agricool.co/)
+- [Agrilyst](https://www.agrilyst.com/)
+- [Alesca Life](http://www.alescalife.com/en/home/)
 - [Flux IOT](http://fluxiot.com/)
-- [Huxley](http://www.huxley.io)
+- [Freight Farms](https://www.freightfarms.com/)
+- [Huxley](http://www.huxley.io/)
 - [MotorLeaf](http://www.motorleaf.com/)
 - [Plenty](http://www.plenty.ag/)
 - [Spread](http://spread.co.jp/en/)
