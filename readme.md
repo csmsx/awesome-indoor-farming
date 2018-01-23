@@ -41,7 +41,8 @@ All lists are in alphabetical order.
 
 - [AeroFarms](http://aerofarms.com/)
 - [Flux IOT](http://fluxiot.com/)
-- [Huxley](http://www.huxley.io)
+- [Huxley](http://www.huxley.io/)
+- [Iron Ox](http://ironox.com/)
 - [MotorLeaf](http://www.motorleaf.com/)
 - [Plenty](http://www.plenty.ag/)
 - [Spread](http://spread.co.jp/en/)
