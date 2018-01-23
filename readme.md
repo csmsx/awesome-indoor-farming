@@ -50,7 +50,8 @@ All lists are in alphabetical order.
 
 ## Books
 
-- [Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food Production](https://www.goodreads.com/book/show/26260515-plant-factory), edited  by T. Kozai, G. Niu, M. Takagaki.
+- [LED Lighting for Urban Agriculture](https://www.goodreads.com/book/show/33790451-led-lighting-for-urban-agriculture), edited by T Kozai, K. Fujiwara, E. S. Runkle
+- [Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food Production](https://www.goodreads.com/book/show/26260515-plant-factory), edited by T. Kozai, G. Niu, M. Takagaki.
 - [The Vertical Farm](http://www.verticalfarm.com/), by D. Despommier.
 
 
