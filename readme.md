@@ -44,6 +44,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Alesca Life](http://www.alescalife.com/en/home/)
 - [Flux IOT](http://fluxiot.com/)
 - [Huxley](http://www.huxley.io/)
+- [Infarm](https://infarm.de/)
 - [Iron Ox](http://ironox.com/)
 - [Freight Farms](https://www.freightfarms.com/)
 - [Huxley](http://www.huxley.io/)
