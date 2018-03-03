@@ -22,6 +22,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Plant Trait Database](https://www.try-db.org/TryWeb/Database.php)
 - [UC Irvine Leaf Dataset](https://archive.ics.uci.edu/ml/datasets/Leaf) - 340 images
 - [UC Irvine One-hundred plant species leaves data set](https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set) - ~1600 images of leaf specimens, used for Kaggle Leaf Classfication challenge
+- [Aarhus University Plant seedlings dataset](https://vision.eng.au.dk/plant-seedlings-dataset/) 960 plants from 12 species
 
 ## OSS
 
