@@ -34,7 +34,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 ### Automated Phenotyping
 
 - [PlantCV, based on OpenCV](http://plantcv.danforthcenter.org/)
-
+- [3-Demeter Capture](https://github.com/thsant/3dmcap) - Neat OSS tool for building 3-D point clouds from standard-camera images.
 
 ## Companies
 
