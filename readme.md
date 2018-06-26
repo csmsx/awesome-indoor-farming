@@ -61,6 +61,8 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 ## Research And Groups
 
 - [AstroPlant](https://www.astroplant.io/)
+- [Eden ISS](http://eden-iss.net/)
+- [Eu:CROPIS](https://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10081/151_read-17874/#/gallery/23030)
 
 
 ## Books
