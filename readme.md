@@ -29,6 +29,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 
 ### Gardeners
 
+- [AstroPlant](https://github.com/AstroPlant/)
 - [CommonGarden in JavaScript/Node.js](http://commongarden.org/)
 - [Farm, growing software in Go](https://github.com/wsnook/farm)
 - [Mark0, growing software in Python](https://github.com/csmsx/mark0)
