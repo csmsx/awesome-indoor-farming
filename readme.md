@@ -8,6 +8,7 @@
 - [Public Datasets](#public-datasets)
 - [Open Source Software](#oss)
 - [Companies](#companies)
+- [Research & Groups](#randg)
 - [Books](#books)
 
 All lists are in alphabetical order.
@@ -55,6 +56,11 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [PlantX](http://www.plantx.co.jp/) - Latest product information in Japanese only at this point.
 - [Plenty](http://www.plenty.ag/)
 - [Spread](http://spread.co.jp/en/)
+
+
+## Research And Groups
+
+- [AstroPlant](https://www.astroplant.io/)
 
 
 ## Books
