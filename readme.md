@@ -31,7 +31,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [OpenAg Initiative PFC, in Python on ROS](https://github.com/OpenAgInitiative)
 - [OpenAg MVP, in Python](https://github.com/webbhm/OpenAg-MVP)
 
-### Phenotyping
+### Automated Phenotyping
 
 - [PlantCV, based on OpenCV](http://plantcv.danforthcenter.org/)
 
