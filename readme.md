@@ -42,12 +42,14 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [AgriCool](https://agricool.co/)
 - [Agrilyst](https://www.agrilyst.com/)
 - [Alesca Life](http://www.alescalife.com/en/home/)
+- [Autogrow](https://autogrow.com/)
 - [Flux IOT](http://fluxiot.com/)
 - [Freight Farms](https://www.freightfarms.com/)
 - [Huxley](http://www.huxley.io/)
 - [Infarm](https://infarm.de/)
 - [Iron Ox](http://ironox.com/)
 - [MotorLeaf](http://www.motorleaf.com/)
+- [PlantX](http://www.plantx.co.jp/) - Latest product information in Japanese only at this point.
 - [Plenty](http://www.plenty.ag/)
 - [Spread](http://spread.co.jp/en/)
 
