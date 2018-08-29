@@ -49,6 +49,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Alesca Life](http://www.alescalife.com/en/home/)
 - [Autogrow](https://autogrow.com/)
 - [Flux IOT](http://fluxiot.com/)
+- [Four Growers](https://fourgrowers.co/)
 - [Freight Farms](https://www.freightfarms.com/)
 - [Huxley](http://www.huxley.io/)
 - [Infarm](https://infarm.de/)
