@@ -54,11 +54,11 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Four Growers](https://fourgrowers.co/)
 - [Freight Farms](https://www.freightfarms.com/)
 - [FreshBox Farms](http://freshboxfarms.com/)
-- [Huxley](http://www.huxley.io/)
 - [Infarm](https://infarm.com/)
 - [Intelligent Growth Solutions](https://www.intelligentgrowthsolutions.com/)
 - [Iron Ox](http://ironox.com/)
 - [MotorLeaf](http://www.motorleaf.com/)
+- [Plant Vision](https://www.plantvision.org/)
 - [PlantX](http://www.plantx.co.jp/) - Latest product information in Japanese only at this point.
 - [Plenty](http://www.plenty.ag/)
 - [Spread](http://spread.co.jp/en/)
