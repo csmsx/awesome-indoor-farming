@@ -50,7 +50,6 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Autogrow](https://autogrow.com/)
 - [Bowery](https://boweryfarming.com/)
 - [FarmOne](https://farm.one/)
-- [Flux IOT](http://fluxiot.com/)
 - [Four Growers](https://fourgrowers.co/)
 - [Freight Farms](https://www.freightfarms.com/)
 - [FreshBox Farms](http://freshboxfarms.com/)
@@ -58,10 +57,12 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Intelligent Growth Solutions](https://www.intelligentgrowthsolutions.com/)
 - [Iron Ox](http://ironox.com/)
 - [MotorLeaf](http://www.motorleaf.com/)
+- [Optimal](http://optimal.ag/)
 - [Plant Vision](https://www.plantvision.org/)
 - [PlantX](http://www.plantx.co.jp/) - Latest product information in Japanese only at this point.
 - [Plenty](http://www.plenty.ag/)
 - [Spread](http://spread.co.jp/en/)
+- [Square Roots](https://squarerootsgrow.com/)
 
 
 ## Research And Groups
