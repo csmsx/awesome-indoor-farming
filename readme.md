@@ -24,6 +24,9 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [UC Irvine Leaf Dataset](https://archive.ics.uci.edu/ml/datasets/Leaf) - 340 images
 - [UC Irvine One-hundred plant species leaves data set](https://archive.ics.uci.edu/ml/datasets/One-hundred+plant+species+leaves+data+set) - ~1600 images of leaf specimens, used for Kaggle Leaf Classfication challenge
 - [Aarhus University Plant seedlings dataset](https://vision.eng.au.dk/plant-seedlings-dataset/) 960 plants from 12 species
+- [Vegetable on Imagenet](http://image-net.org/explore?wnid=n07707451)
+- [Crop diseases from EPFL](https://www.plantvillage.org/en/crops)
+- [Crop and weed plants](https://github.com/cwfid/dataset)
 
 ## OSS
 
@@ -35,6 +38,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Mark0, growing software in Python](https://github.com/csmsx/mark0)
 - [OpenAg Initiative PFC, in Python on ROS](https://github.com/OpenAgInitiative)
 - [OpenAg MVP, in Python](https://github.com/webbhm/OpenAg-MVP)
+- [ROS Agriculture](https://wiki.ros.org/agriculture) - applicable to indoor farming, but aimed beyond.
 
 ### Automated Phenotyping
 
