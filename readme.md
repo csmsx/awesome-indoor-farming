@@ -45,6 +45,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 
 - [AeroFarms](http://aerofarms.com/)
 - [AgriCool](https://agricool.co/)
+- [Agrilution](https://agrilution.com/)
 - [Agrilyst](https://www.agrilyst.com/)
 - [Alesca Life](http://www.alescalife.com/en/home/)
 - [Autogrow](https://autogrow.com/)
