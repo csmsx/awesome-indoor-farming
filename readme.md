@@ -47,17 +47,17 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 
 ## Companies
 
+Many companies work on indoor farming. This short list tries to stay short by focusing with either large or special companies relying heavily on technology.
+
 - [AeroFarms](http://aerofarms.com/)
-- [AgriCool](https://agricool.co/)
-- [Agrilution](https://agrilution.com/)
-- [Agrilyst](https://www.agrilyst.com/)
+- [Agrilution](https://agrilution.com/), now part of Miele.
 - [Alesca Life](http://www.alescalife.com/en/home/)
+- [Artemis](https://artemisag.com/) (formely Agrilyst)
 - [Autogrow](https://autogrow.com/)
 - [Bowery](https://boweryfarming.com/)
 - [FarmOne](https://farm.one/)
 - [Four Growers](https://fourgrowers.co/)
 - [Freight Farms](https://www.freightfarms.com/)
-- [FreshBox Farms](http://freshboxfarms.com/)
 - [Infarm](https://infarm.com/)
 - [Intelligent Growth Solutions](https://www.intelligentgrowthsolutions.com/)
 - [Iron Ox](http://ironox.com/)
@@ -66,6 +66,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Plant Vision](https://www.plantvision.org/)
 - [PlantX](http://www.plantx.co.jp/) - Latest product information in Japanese only at this point.
 - [Plenty](http://www.plenty.ag/)
+- [Root AI](https://www.root-ai.com/)
 - [Spread](http://spread.co.jp/en/)
 - [Square Roots](https://squarerootsgrow.com/)
 
