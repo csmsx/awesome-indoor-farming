@@ -35,6 +35,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [AstroPlant](https://github.com/AstroPlant/)
 - [CommonGarden in JavaScript/Node.js](http://commongarden.org/)
 - [Farm, growing software in Go](https://github.com/wsnook/farm)
+- [FarmBot](https://farm.bot/pages/open-source)
 - [Mark0, growing software in Python](https://github.com/csmsx/mark0)
 - [OpenAg Initiative PFC, in Python on ROS](https://github.com/OpenAgInitiative)
 - [OpenAg MVP, in Python](https://github.com/webbhm/OpenAg-MVP)
