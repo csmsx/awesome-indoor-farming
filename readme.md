@@ -75,8 +75,9 @@ Many companies work on indoor farming. This short list tries to stay short by fo
 ## Research And Groups
 
 - [AstroPlant](https://www.astroplant.io/)
-- [Eden ISS](http://eden-iss.net/)
-- [Eu:CROPIS](https://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10081/151_read-17874/#/gallery/23030)
+- [Eden ISS](http://eden-iss.net/) - Indoor farm at the South Pole.
+- [Eu:CROPIS](https://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10081/151_read-17874/#/gallery/23030) - Research project for plants under micro-gravity.
+- [Deep Space Food Challenge](https://www.deepspacefoodchallenge.org/) - NASA challenge to design indoor farming technology for space missions.
 
 
 ## Books
