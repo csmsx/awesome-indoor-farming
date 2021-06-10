@@ -30,6 +30,10 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 
 ## OSS
 
+### Farming, including indoor
+
+* The Linux Foundation hosts [AgStack](https://agstack.org/), which aims at "Open-Source Digital Infrastructure for the Agriculture Ecosystem". Several threads relate to indoor farming technology.
+
 ### Gardeners
 
 - [AstroPlant](https://github.com/AstroPlant/)
