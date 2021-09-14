@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [History](#history)
 - [Public Datasets](#public-datasets)
 - [Open Source Software](#oss)
 - [Companies](#companies)
@@ -12,6 +13,10 @@
 - [Books](#books)
 
 All lists are in alphabetical order.
+
+## History
+
+- [Biosphere 2](https://biosphere2.org/) - A unique experience in the early 90s for 8 people to live for 2 years completely isolated. A fiasco providing great perspective on indoor farming, closed-environment activities and ECLSS.
 
 ## Public Datasets
 
@@ -66,6 +71,7 @@ Many companies work on indoor farming. This short list tries to stay short by fo
 - [Freight Farms](https://www.freightfarms.com/)
 - [Infarm](https://infarm.com/)
 - [Intelligent Growth Solutions](https://www.intelligentgrowthsolutions.com/)
+- [Interstellar Lab](https://www.interstellarlab.com/) - Still concept stage.
 - [Iron Ox](http://ironox.com/)
 - [MotorLeaf](http://www.motorleaf.com/)
 - [Optimal](http://optimal.ag/)
