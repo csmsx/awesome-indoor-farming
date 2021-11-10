@@ -49,6 +49,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Mycodo](https://github.com/kizniche/Mycodo)
 - [OpenAg Initiative PFC, in Python on ROS](https://github.com/OpenAgInitiative)
 - [OpenAg MVP, in Python](https://github.com/futureag/mvp)
+- [Project PeaPod](https://github.com/PeaPodTechnologies/PeaPod)
 - [ROS Agriculture](https://wiki.ros.org/agriculture) - applicable to indoor farming, but aimed beyond.
 
 ### Automated Phenotyping
