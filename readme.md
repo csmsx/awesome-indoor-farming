@@ -7,7 +7,7 @@
 
 - [History](#history)
 - [Public Datasets](#public-datasets)
-- [Open Source Software](#oss)
+- [Open Source Software & Hardware](#ossh)
 - [Companies](#companies)
 - [Research & Groups](#randg)
 - [Books](#books)
@@ -33,7 +33,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [Crop diseases from EPFL](https://www.plantvillage.org/en/crops)
 - [Crop and weed plants](https://github.com/cwfid/dataset)
 
-## OSS
+## OSSH
 
 ### Farming, including indoor
 
@@ -45,6 +45,7 @@ A key to Indoor Farming is using data and automation to optimize growth and redu
 - [CommonGarden in JavaScript/Node.js](http://commongarden.org/)
 - [Farm, growing software in Go](https://github.com/wsnook/farm)
 - [FarmBot](https://farm.bot/pages/open-source)
+- [Hydromisc](https://github.com/hydromisc/hydromisc) - custom PCB for hydroponics.
 - [Mark0, growing software in Python](https://github.com/csmsx/mark0)
 - [Mycodo](https://github.com/kizniche/Mycodo)
 - [OpenAg Initiative PFC, in Python on ROS](https://github.com/OpenAgInitiative)
